@@ -439,7 +439,7 @@ goto menu
 
 1. Скачайте архив репозитория (**Code → Download ZIP**) или склонируйте его командой:
    ```bash
-   git clone https://github.com[ваш-логин]/lab2-variant10.git
+   git clone https://github.com/Pottrah/lab2-decision-system-Karpov/tree/develop.git
    ```
 2. Распакуйте все файлы в одну локальную папку (убедитесь, что `lab_system.bat`, `chapter1.bat`, `chapter2.bat` и `chapter3.bat` находятся рядом в одном каталоге).
 3. Запустите файл **`lab_system.bat`** двойным кликом левой кнопки мыши в Проводнике Windows.
