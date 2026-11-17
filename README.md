@@ -404,19 +404,19 @@ goto menu
 ## 2. Скриншоты работы системы
 
 ### Главное меню (`lab_system.bat`)
-![Главное меню](screenshots/menu.png)
+![Главное меню](menu.png)
 
 ### Работа Модуля 1 (`chapter1.bat`)
-![Модуль 1](screenshots/module1.png)
+![Модуль 1](module1.png)
 
 ### Работа Модуля 2 (`chapter2.bat`)
-![Модуль 2](screenshots/module2.png)
+![Модуль 2](module2.png)
 
 ### Работа Модуля 3 (`chapter3.bat`)
-![Модуль 3](screenshots/module3.png)
+![Модуль 3](module3.png)
 
 ### Последовательный запуск всех модулей (Пункт 4)
-![Последовательный запуск](screenshots/all_modules.png)
+![Последовательный запуск](all_modules.png)
 
 ---
 
